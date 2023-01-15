@@ -11,6 +11,7 @@
 		40EC86812974498800DD74E1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40EC86802974498800DD74E1 /* ContentView.swift */; };
 		40EC86832974498F00DD74E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 40EC86822974498F00DD74E1 /* Assets.xcassets */; };
 		40EC86862974498F00DD74E1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 40EC86852974498F00DD74E1 /* Preview Assets.xcassets */; };
+		40EC868D29747CC000DD74E1 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40EC868C29747CC000DD74E1 /* ViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		40EC86802974498800DD74E1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		40EC86822974498F00DD74E1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		40EC86852974498F00DD74E1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		40EC868C29747CC000DD74E1 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				40EC867E2974498800DD74E1 /* SwiftUI_API_callApp.swift */,
+				40EC868C29747CC000DD74E1 /* ViewModel.swift */,
 				40EC86802974498800DD74E1 /* ContentView.swift */,
 				40EC86822974498F00DD74E1 /* Assets.xcassets */,
 				40EC86842974498F00DD74E1 /* Preview Content */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				40EC86812974498800DD74E1 /* ContentView.swift in Sources */,
+				40EC868D29747CC000DD74E1 /* ViewModel.swift in Sources */,
 				40EC867F2974498800DD74E1 /* SwiftUI_API_callApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
